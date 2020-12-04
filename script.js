@@ -6,7 +6,7 @@ var activatorbtn = null;
 function onReleasebtnClick() {
 	bottomdiv[0].style.display = bottomdiv[0].style.display;
 	if(bottomdiv[0].style.display === "block" && activatorbtn == 0) {
-		iframe[0].src = "none";
+		iframe[0].src = "emptyframe.html";
 		bottomdiv[0].style.display = "none";
 		imagediv[0].style.filter = "none";
 	} else {
@@ -20,7 +20,7 @@ function onReleasebtnClick() {
 function onGuidesbtnClick() {
 	bottomdiv[0].style.display = bottomdiv[0].style.display;
 	if(bottomdiv[0].style.display === "block" && activatorbtn == 1) {
-		iframe[0].src = "none";
+		iframe[0].src = "emptyframe.html";
 		bottomdiv[0].style.display = "none";
 		imagediv[0].style.filter = "none";
 	} else {
