@@ -1,22 +1,29 @@
-@font-face { 
-	font-family: 8bitOperatorPlus; url("8bitOperatorPlus-Regular.ttf") format("truetype");
+@font-face {
+	font-family: "VCR OSD Mono";
+	src: url("VCR_OSD_MONO.woff2") format("woff2"),
+		 url("VCR_OSD_MONO.woff") format("woff"),
+		 url("VCR_OSD_MONO.ttf") format("truetype");
+	font-weight:normal;
+	font-style:normal;
+	font-display:swap;
 }
 
 body {
 	overflow:hidden;
+	font-family:"VCR OSD Mono";
 	margin:0;
 	background-color: rgba( 122.5, 122.5, 122.5, 1);
 }
 
 .maindiv {
 	text-align:center;
-	transform: translate( 0%, -110vh);
+	transform: translate( 0%, -100vh);
 }
 
 .imagediv {
 	filter: none;
 	width:100vw;
-	height:110vh;
+	height:100vh;
 	background-size:cover;
 	animation: transit 90s infinite alternate;
 }
@@ -68,20 +75,21 @@ body {
 
 .mainframe {
 	border:none;
-	width:430px;
+	width:480px;
 	height:81vh;
 	background: rgba( 155, 155, 155, 0.25);
 	
 }
 
 button {
-	font-family:8bitOperatorPlus;
+	margin:0;
+	font-family:"VCR OSD Mono";
 	color:white;
 	background:none;
 	outline:none;
 	font-size:24px;
 	border:0;
-	width:140px;
+	width:150px;
 	height:64px;
 	user-select:none;
 }
@@ -99,7 +107,7 @@ button:active {
 .downdiv {
 	display:none;
 	margin:auto;
-	width:450px;
+	width:480px;
 	text-align:center;
 	height:80vh;
 }
@@ -117,7 +125,7 @@ button:active {
 }
 
 .buttondiv {
-	width:430px;
+	width:470px;
 }
 
 
