@@ -75,7 +75,7 @@ body {
 
 .mainframe {
 	border:none;
-	width:480px;
+	width:550px;
 	height:81vh;
 	background: rgba( 155, 155, 155, 0.25);
 	
@@ -104,10 +104,17 @@ button:active {
 	background-color:#777777;
 }
 
+.wikibtn {
+	width: 100px;
+}
+
+.morebtn {
+	width:100px;
+}
 .downdiv {
 	display:none;
 	margin:auto;
-	width:480px;
+	width:550px;
 	text-align:center;
 	height:80vh;
 }
@@ -125,7 +132,8 @@ button:active {
 }
 
 .buttondiv {
-	width:470px;
+	width:550px;
+	margin:0px;
 }
 
 
