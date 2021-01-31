@@ -32,44 +32,62 @@ body {
 	0% {
 		background-image: url("images/1.png");
 	}
-	12% {
+	7% {
 		background-image: url("images/1.png");
 	}
-	16% {
+	10% {
 		background-image: url("images/2.png");
 	}
-	28% {
+	18% {
 		background-image: url("images/2.png");
 	}
-	32% {
+	22% {
 		background-image: url("images/3.png");
 	}
-	44% {
+	30% {
 		background-image: url("images/3.png");
 	}
-	48% {
+	33% {
 		background-image: url("images/4.png");
+	}
+	40% {
+		background-image: url("images/4.png");
+	}
+	43% {
+		background-image: url("images/5.png");
+	}
+	50% {
+		background-image: url("images/5.png");
+	}
+	53% {
+		background-image: url("images/6.png");
 	}
 	60% {
-		background-image: url("images/4.png");
+		background-image: url("images/6.png");
 	}
-	64% {
-		background-image: url("images/5.png");
+	63% {
+		background-image: url("images/7.png");
 	}
-	76% {
-		background-image: url("images/5.png");
+	70% {
+		background-image: url("images/7.png");
+	}
+	73% {
+		background-image: url("images/8.png");
 	}
 	80% {
-		background-image: url("images/6.png");
+		background-image: url("images/8.png");
+	}
+	83% {
+		background-image: url("images/9.png");
 	}
 	90% {
-		background-image: url("images/6.png");
+		background-image: url("images/9.png");	
 	}
-	96% {
-		background-image: url("images/7.png");
+	93% {
+		background-image: url("images/10.png");
 	}
 	100% {
-		background-image: url("images/7.png");
+		background-image: url("images/10.png");
 	}
 }
 
