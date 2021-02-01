@@ -25,7 +25,7 @@ body {
 	width:100vw;
 	height:100vh;
 	background-size:cover;
-	animation: transit 90s infinite alternate;
+	animation: transit 120s infinite alternate;
 }
 
 @keyframes transit {
