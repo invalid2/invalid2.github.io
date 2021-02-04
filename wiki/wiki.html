@@ -155,6 +155,8 @@ Error message and password prompt
 
 <li>$:/config/RelinkOnRename</li>
 
+<li>$:/config/TimestampDisable</li>
+
 <li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/info</li>
 
 <li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/open-window</li>
@@ -171,6 +173,8 @@ Error message and password prompt
 
 <li>$:/layout</li>
 
+<li>$:/palette</li>
+
 <li>$:/SiteSubtitle</li>
 
 <li>$:/SiteTitle</li>
@@ -178,6 +182,8 @@ Error message and password prompt
 <li>$:/state/advancedsearch/currentTab</li>
 
 <li>$:/state/folded/Start</li>
+
+<li>$:/state/ShowPaletteEditor</li>
 
 <li>$:/state/sidebar</li>
 
@@ -199,13 +205,39 @@ Error message and password prompt
 
 <li>$:/state/tabs/controlpanel/toolbars-1345989671</li>
 
+<li>$:/state/toc/Contents-Blocks-1525036119</li>
+
+<li>$:/state/toc/Contents-Blocks-1637712383</li>
+
+<li>$:/state/toc/Contents-Blocks-1843068618</li>
+
+<li>$:/state/toc/Contents-Items--2139492062</li>
+
+<li>$:/state/toc/Contents-Items-1637712383</li>
+
+<li>$:/state/toc/Contents-Items-1843068618</li>
+
+<li>$:/state/toc/Contents-Mobs--2139492062</li>
+
+<li>$:/state/toc/Contents-Mobs-1637712383</li>
+
+<li>$:/state/toc/Contents-Mobs-1843068618</li>
+
+<li>$:/state/toc/Contents/Mobs-BUTTERfly-1843068618</li>
+
 <li>$:/status/RequireReloadDueToPluginChange</li>
 
 <li>$:/StoryList</li>
 
+<li>$:/theme</li>
+
 <li>$:/themes/tiddlywiki/snowwhite</li>
 
 <li>$:/themes/tiddlywiki/vanilla</li>
+
+<li>$:/themes/tiddlywiki/vanilla/metrics/tiddlerwidth</li>
+
+<li>$:/themes/tiddlywiki/vanilla/options/sidebarlayout</li>
 
 <li>$:/view</li>
 
@@ -219,7 +251,13 @@ Error message and password prompt
 
 <li>Contents</li>
 
+<li>Dimensions</li>
+
 <li>Dracorat</li>
+
+<li>Draft of 'Mobs'</li>
+
+<li>Dungeons</li>
 
 <li>Guardian</li>
 
@@ -227,11 +265,21 @@ Error message and password prompt
 
 <li>Items</li>
 
+<li>Latten Furnace</li>
+
+<li>Ly Infuser</li>
+
 <li>Mobs</li>
 
 <li>Start</li>
 
 <li>Tools</li>
+
+<li>Troll Cockroach Ore</li>
+
+<li>Wayfinder</li>
+
+<li>Waymark</li>
 
 </ul>
 </p>
@@ -267,6 +315,9 @@ Error message and password prompt
 </div>
 <div created="20210201131238669" modified="20210201131238669" title="$:/config/RelinkOnRename">
 <pre>yes</pre>
+</div>
+<div created="20210202010556607" modified="20210202010559147" title="$:/config/TimestampDisable">
+<pre>no</pre>
 </div>
 <div created="20210201125532412" modified="20210201131119075" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/info">
 <pre>hide</pre>
@@ -10153,6 +10204,9 @@ Error message and password prompt
 <div created="20210130234847568" modified="20210201125744950" title="$:/layout">
 <pre>$:/core/ui/PageTemplate</pre>
 </div>
+<div created="20210202010244059" modified="20210202010409887" title="$:/palette">
+<pre>$:/palettes/SolarFlare</pre>
+</div>
 <div created="20210125103504833" modified="20210130235114289" title="$:/SiteSubtitle">
 <pre>Lore, guides and help for the DangerZone mod and other related content</pre>
 </div>
@@ -10165,14 +10219,17 @@ Error message and password prompt
 <div created="20210130234819995" modified="20210130234821296" title="$:/state/folded/Start">
 <pre>show</pre>
 </div>
-<div created="20210125200317657" modified="20210125221538792" title="$:/state/sidebar">
+<div created="20210202010320575" modified="20210202010320575" title="$:/state/ShowPaletteEditor">
+<pre>yes</pre>
+</div>
+<div created="20210125200317657" modified="20210201233211978" title="$:/state/sidebar">
 <pre>yes</pre>
 </div>
 <div created="20210130235029396" modified="20210130235032784" title="$:/state/tab--1498284803">
 <pre>$:/core/ui/AdvancedSearch/Shadows</pre>
 </div>
-<div created="20210125103801477" modified="20210201131102218" title="$:/state/tab--1963855381">
-<pre>$:/core/ui/ControlPanel/Toolbars</pre>
+<div created="20210125103801477" modified="20210202010446667" title="$:/state/tab--1963855381">
+<pre>$:/themes/tiddlywiki/vanilla/themetweaks</pre>
 </div>
 <div created="20210125103726176" modified="20210130235120368" title="$:/state/tab--2112689675">
 <pre>$:/core/ui/ControlPanel/Basics</pre>
@@ -10183,23 +10240,56 @@ Error message and password prompt
 <div created="20210125103734844" modified="20210130235118792" title="$:/state/tab--959111941">
 <pre>$:/core/ui/ControlPanel/EditorTypes</pre>
 </div>
-<div created="20210125103758241" modified="20210201131303061" title="$:/state/tab-1749438307">
-<pre>$:/core/ui/ControlPanel/Settings</pre>
+<div created="20210125103758241" modified="20210202010452531" title="$:/state/tab-1749438307">
+<pre>$:/core/ui/ControlPanel/Info</pre>
 </div>
 <div created="20210125115557568" modified="20210125115600364" title="$:/state/tab/moresidebar-1850697562">
 <pre>$:/core/ui/MoreSideBar/Shadows</pre>
 </div>
-<div created="20210125103606820" modified="20210201131930923" title="$:/state/tab/sidebar--595412856">
-<pre>Contents</pre>
+<div created="20210125103606820" modified="20210202010537319" title="$:/state/tab/sidebar--595412856">
+<pre>$:/core/ui/SideBar/Tools</pre>
 </div>
-<div created="20210125103839664" modified="20210201131120231" title="$:/state/tabs/controlpanel/toolbars-1345989671">
-<pre>$:/core/ui/ControlPanel/Toolbars/PageControls</pre>
+<div created="20210125103839664" modified="20210202010430655" title="$:/state/tabs/controlpanel/toolbars-1345989671">
+<pre>$:/core/ui/ControlPanel/Toolbars/ViewToolbar</pre>
+</div>
+<div created="20210201234742179" modified="20210201234744036" title="$:/state/toc/Contents-Blocks-1525036119">
+<pre>open</pre>
+</div>
+<div created="20210201231500022" modified="20210201231500022" title="$:/state/toc/Contents-Blocks-1637712383">
+<pre>open</pre>
+</div>
+<div created="20210201231319078" modified="20210201231319078" title="$:/state/toc/Contents-Blocks-1843068618">
+<pre>open</pre>
+</div>
+<div created="20210201233215519" modified="20210201233215519" title="$:/state/toc/Contents-Items--2139492062">
+<pre>open</pre>
+</div>
+<div created="20210201231501150" modified="20210201232310474" title="$:/state/toc/Contents-Items-1637712383">
+<pre>open</pre>
+</div>
+<div created="20210201231342591" modified="20210201231342591" title="$:/state/toc/Contents-Items-1843068618">
+<pre>open</pre>
+</div>
+<div created="20210201232347569" modified="20210201232347569" title="$:/state/toc/Contents-Mobs--2139492062">
+<pre>open</pre>
+</div>
+<div created="20210201141036097" modified="20210201232309147" title="$:/state/toc/Contents-Mobs-1637712383">
+<pre>open</pre>
+</div>
+<div created="20210201140925916" modified="20210201231141202" title="$:/state/toc/Contents-Mobs-1843068618">
+<pre>open</pre>
+</div>
+<div created="20210201140927240" modified="20210201140933313" title="$:/state/toc/Contents/Mobs-BUTTERfly-1843068618">
+<pre>close</pre>
 </div>
 <div title="$:/status/RequireReloadDueToPluginChange">
 <pre>no</pre>
 </div>
-<div created="20210201131135548" list="Changelog Impostor Mobs Contents Start" modified="20210201140001557" title="$:/StoryList">
+<div created="20210201231201495" list="$:/ControlPanel Contents" modified="20210202010240654" title="$:/StoryList">
 <pre></pre>
+</div>
+<div created="20210202010420467" modified="20210202010444159" title="$:/theme">
+<pre>$:/themes/tiddlywiki/snowwhite</pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="$:/themes/tiddlywiki/vanilla" description="Emphasises individual tiddlers" name="Snow White" plugin-priority="0" plugin-type="theme" title="$:/themes/tiddlywiki/snowwhite" type="application/json" version="5.1.23">
 <pre>{
@@ -10310,37 +10400,60 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20210130235333977" modified="20210201125421074" title="$:/view">
+<div created="20210202010049765" modified="20210202010050895" title="$:/themes/tiddlywiki/vanilla/metrics/tiddlerwidth">
+<pre>770px</pre>
+</div>
+<div created="20210201230735447" modified="20210201230735447" title="$:/themes/tiddlywiki/vanilla/options/sidebarlayout">
+<pre>fluid-fixed</pre>
+</div>
+<div created="20210130235333977" modified="20210202010235531" title="$:/view">
 <pre>zoomin</pre>
 </div>
-<div created="20210125221659956" modified="20210201131836715" tags="armor Contents" title="Armor">
+<div created="20210125221659956" index="3" modified="20210202000320741" tags="Contents" title="Armor">
 <pre></pre>
 </div>
-<div created="20210125221621116" modified="20210201131909835" tags="blocks Contents" title="Blocks">
+<div created="20210125221621116" index="3" modified="20210202000334940" tags="Contents" title="Blocks">
 <pre></pre>
 </div>
-<div created="20210125120051494" modified="20210201133629344" tags="BUTTERfly passive Mobs" title="BUTTERfly">
+<div created="20210125120051494" modified="20210201140957606" tags="Mobs" title="BUTTERfly">
 <pre></pre>
 </div>
-<div created="20210125221602433" modified="20210201140008666" tags="Contents" title="Changelog">
+<div created="20210125221602433" index="1" modified="20210202000226176" tags="Contents" title="Changelog">
 <pre></pre>
 </div>
-<div created="20210201131011021" list="Start Changelog Armor Blocks Items Mobs Tools" list-before="$:/core/ui/SideBar/Open" modified="20210201133554741" tags="$:/tags/SideBar" title="Contents">
-<pre>&lt;&lt;toc 'Contents' [[]]&gt;&gt;</pre>
+<div created="20210201131011021" list="Start Changelog Armor Blocks Dimensions Dungeons Items Mobs Tools" list-before="$:/core/ui/SideBar/Open" modified="20210202000241384" tags="$:/tags/SideBar" title="Contents">
+<pre>&lt;div class=&quot;tc-table-of-contents&quot;&gt;
+&lt;&lt;toc-selective-expandable &quot;Contents&quot; sort[index]&gt;&gt;
+&lt;/div&gt;</pre>
 </div>
-<div created="20210125115846277" modified="20210201133642040" tags="dracorat hostile Mobs" title="Dracorat">
+<div created="20210201231209886" index="3" modified="20210202000433797" tags="Contents" title="Dimensions">
 <pre></pre>
 </div>
-<div created="20210125115926029" modified="20210201133653671" tags="guardian hostile Mobs" title="Guardian">
+<div created="20210125115846277" modified="20210201141009461" tags="Mobs" title="Dracorat">
 <pre></pre>
 </div>
-<div created="20210125115951192" modified="20210201133706496" tags="impostor hostile Mobs" title="Impostor">
+<div modified="20210202000459493" title="Draft of 'Mobs'">
 <pre></pre>
 </div>
-<div created="20210125221632929" modified="20210201131900848" tags="items Contents" title="Items">
+<div created="20210201230832172" index="3" modified="20210202000442513" tags="Contents" title="Dungeons">
 <pre></pre>
 </div>
-<div created="20210125104405771" modified="20210201133617541" tags="Contents" title="Mobs">
+<div created="20210125115926029" modified="20210201141016734" tags="Mobs" title="Guardian">
+<pre></pre>
+</div>
+<div created="20210125115951192" modified="20210201141025698" tags="Mobs" title="Impostor">
+<pre></pre>
+</div>
+<div created="20210125221632929" index="3" modified="20210202000449889" tags="Contents" title="Items">
+<pre></pre>
+</div>
+<div created="20210201231418008" index="0" modified="20210202000411277" tags="Blocks" title="Latten Furnace">
+<pre></pre>
+</div>
+<div created="20210202003842032" index="1" modified="20210202003917338" tags="Blocks" title="Ly Infuser">
+<pre></pre>
+</div>
+<div created="20210125104405771" index="3" modified="20210202000459165" tags="Contents" title="Mobs">
 <pre>The word mob comes from mobile and there are a lot of those in this mod! For curiosity and easier adventuring purposes you can find the current roster below.
 
 !!! Passive
@@ -10353,7 +10466,7 @@ None yet :-(
 [[Dracorat]] [[Guardian]] [[Impostor]]
 </pre>
 </div>
-<div created="20210125103933203" list-before="$:/core/ui/SideBar/Contents/Armor" modified="20210201132837388" tags="start Contents" title="Start">
+<div created="20210125103933203" index="0" modified="20210202000233276" tags="Contents" title="Start">
 <pre>!!! Welcome to the SpawnerBlocks wiki! You will find here all types of content related to the mod that will surely make your journey through it a lot easier, choose the topic you want to know about more below:
 
 !! [[Changelog]]
@@ -10369,7 +10482,16 @@ None yet :-(
 !! [[Armor]]
 </pre>
 </div>
-<div created="20210125221650604" modified="20210201131848619" tags="tools Contents" title="Tools">
+<div created="20210125221650604" index="3" modified="20210202000510645" tags="Contents" title="Tools">
+<pre></pre>
+</div>
+<div created="20210202003933919" index="2" modified="20210202003955106" tags="Blocks" title="Troll Cockroach Ore">
+<pre></pre>
+</div>
+<div created="20210201231323159" modified="20210201231344401" tags="Items" title="Wayfinder">
+<pre></pre>
+</div>
+<div created="20210201231300736" index="3" modified="20210202004000114" tags="Blocks" title="Waymark">
 <pre></pre>
 </div>
 
