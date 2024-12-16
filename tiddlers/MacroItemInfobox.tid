@@ -1,0 +1,14 @@
+created: 20230101224742144
+modified: 20230331103544856
+tags: $:/tags/Macro Macros
+title: MacroItemInfobox
+type: text/vnd.tiddlywiki
+
+\define iteminfobox(type:"None" obt:"Unobtainable" use:"Useless")
+| !Weapon data of [[$(currentTiddler)$]] |<|
+| Type | $type$ |
+| Obtained | $obt$ |
+| Uses | $use$ |
+|~|~|
+
+\end

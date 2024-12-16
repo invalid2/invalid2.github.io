@@ -1,0 +1,23 @@
+appearance: https://media.forgecdn.net/attachments/513/499/robo_jeffrey-new-animations.gif
+created: 20221231140217884
+modified: 20230313180518673
+tags: Mobs Planned Hostile
+title: Robo Jeffery
+type: text/vnd.tiddlywiki
+
+<<mobdatatable class:"Robo" drop:"[[Jeffery Core]]" spawn:"[[Village Mania]]">>
+!!Introduction
+
+Part of the Robo family of mobs, being the strongest Robo. Notable for dropping the [[Jeffery Core]] which is required to craft [[Big Bertha]].
+
+!!Appearance
+<<img {{!!appearance}}>>
+
+
+!!Behaviour
+
+Aggressive to all things non-robo. Uses melee attacks.
+
+!!Gallery
+
+/*Insert gallery images here*

@@ -1,0 +1,11 @@
+created: 20221230185051219
+modified: 20230331103514359
+tags: $:/tags/Macro Macros
+title: MacroDimensionInfobox
+type: text/vnd.tiddlywiki
+
+\define dimensioninfobox(biome:"None")
+| !Dimension data of [[$(currentTiddler)$]] |<|
+| Biomes | $biome$ |
+|~|~|
+\end

@@ -1,0 +1,45 @@
+created: 20221230123319413
+modified: 20230216101255264
+tags: Contents
+title: Biomes
+type: text/vnd.tiddlywiki
+
+<style>
+.grid { 
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(128px, 1fr));
+    grid-gap: 4px;
+    align-items: stretch;
+}
+.grid img {
+    max-width: 100%;
+    max-height: 100%
+}
+</style>
+
+!!Added
+<main class="grid">
+<$list filter="[tag[Biomes]tag[Added]sort[title]]">
+
+| <<imgsize {{!!appearance}}>> |
+| !<<linkself>> |
+</$list>
+</main>
+
+!!Planned
+<main class="grid">
+<$list filter="[tag[Biomes]tag[Planned]sort[title]]">
+
+| <<imgsize {{!!appearance}}>> |
+| !<<linkself>> |
+</$list>
+</main>
+
+!!Proposed
+<main class="grid">
+<$list filter="[tag[Biomes]tag[Proposed]sort[title]]">
+
+| <<imgsize {{!!appearance}}>> |
+| !<<linkself>> |
+</$list>
+</main>

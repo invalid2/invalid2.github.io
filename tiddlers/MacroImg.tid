@@ -1,0 +1,9 @@
+created: 20221230162635365
+modified: 20230101035514652
+tags: $:/tags/Macro Macros
+title: MacroImg
+type: text/vnd.tiddlywiki
+
+\define img(url)
+<img src=$url$>
+\end

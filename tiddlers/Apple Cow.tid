@@ -1,0 +1,27 @@
+appearance: https://media.discordapp.net/attachments/987403325693636618/987481623819878510/dragonfly_view1.png
+created: 20221231151649057
+modified: 20230125235748935
+tags: Mobs Added Passive
+title: Apple Cow
+type: text/vnd.tiddlywiki
+
+<<mobdatatable drop:"Apple">>
+!!Introduction
+
+Part of the Apple Cow and Veggiemal family of mobs.
+
+!!Spawning
+
+Spawning explication
+
+!!Drops
+
+Drops explication
+
+!!Behaviour
+
+Passive
+
+!!Gallery
+
+<<img {{!!appearance}}>>

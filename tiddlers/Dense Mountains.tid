@@ -1,0 +1,20 @@
+appearance: https://media.discordapp.net/attachments/952003824439148584/1073664630750203954/2023-02-10_14.59.24.png
+created: 20230101002059143
+modified: 20230331103721222
+tags: Biomes Added
+title: Dense Mountains
+type: text/vnd.tiddlywiki
+
+!!Information
+
+Biome info
+
+!!Appearance
+<<img {{!!appearance}}>>
+
+!!Data
+<<biomeinfobox loc:"[[Mining Paradise]]" mob:"[[Hercules Beetle]]">>
+
+!!Gallery
+
+/*Insert gallery images here*

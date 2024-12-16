@@ -1,0 +1,16 @@
+created: 20221230175734848
+modified: 20230331103417252
+tags: $:/tags/Macro Macros
+title: MacroBiomeInfobox
+type: text/vnd.tiddlywiki
+
+\define biomeinfobox(loc:"Nowhere" mob:"None" ftr:"None" stru:"None")
+| !Biome data of [[$(currentTiddler)$]] |<|
+| Location | $loc$ |
+| Mobs | $mob$ |
+|~|~|
+| Features | $ftr$ |
+|~|~|
+| Structures | $stru$ |
+|~|~|
+\end

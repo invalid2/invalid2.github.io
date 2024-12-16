@@ -1,0 +1,18 @@
+appearance: https://github.com/ChaosAwakens/ChaosAwakens/blob/1.16.5-forge/src/main/resources/assets/chaosawakens/textures/item/attitude_adjuster.png?raw=true
+created: 20221231152553891
+modified: 20221231155749553
+tags: Templates
+title: TemplateWeapon
+type: text/vnd.tiddlywiki
+
+!!Information
+Basic information
+
+!!Appearance
+<<img {{!!appearance}}>>
+
+!!Data
+<<weapondatatable>>
+
+!!Extras
+None

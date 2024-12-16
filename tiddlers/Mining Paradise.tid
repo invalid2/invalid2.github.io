@@ -1,0 +1,16 @@
+created: 20221231170359810
+modified: 20230310202714018
+tags: Dimensions Added
+title: Mining Paradise
+type: text/vnd.tiddlywiki
+
+!!Information
+
+Best place for mining ores and cave exploring, being the deepest dimension of them all with a 64-blocks-deep extra layer of motherstone below deepslate.
+
+!!Data
+<<dimensiondatatable biome:"[[Dense Mountains]], [[Dense Plains]], [[Dense Forest]], [[Mesozoic Jungle]], [[Dense Ginkgo Forest]], [[Stalagmite Valley]]">>
+
+!!Gallery
+[img[https://media.forgecdn.net/attachments/thumbnails/513/528/310/172/2022-11-07_09.png]]
+[img[https://media.forgecdn.net/attachments/thumbnails/513/544/310/172/2022-10-27_00.png]]

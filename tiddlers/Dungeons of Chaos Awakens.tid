@@ -1,0 +1,63 @@
+created: 20240803223159498
+modified: 20240804203821857
+tags: Articles
+title: Dungeons of Chaos Awakens
+type: text/vnd.tiddlywiki
+
+!What are dungeons?
+
+While it might seem strange to have this be the first section of the article, giving proper context is necessary for a more in depth understanding. Moving on from that, we have that the word dungeon comes from french, //dojon//, and basically refers to the strong tower found on the inner part of castle, said tower often would have a room that worked as a prison cell^^<a href="https://www.merriam-webster.com/dictionary/dungeon">1</a>^^,often also called a dungeon. It's very different to the modern day usage of the word, so where does the modern version comes from?
+
+The modern view of dungeons comes from the massively influential, //Dungeons & Dragons//, where a dungeon is a labyrinthic complex of rooms connected into one single "structure". Dungeons there can be both man made or natural, stacked with monsters or empty of life and filled with traps or not. Thus, it is very easy to see which one Minecraft took inspiration from.
+
+| <iframe width="560" height="315" src="https://www.youtube.com/embed/kFFAagloiGA?si=hV3vI0wCJbWtoA5h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
+| Youtube video that explores good DnD dungeon design in depth |
+
+
+!Dungeons in Minecraft
+
+In Minecraft, due to the procedurally generated nature of the game, dungeons are effectively templates that the game loads and plots somewhere based on some rules and dice rolls. The direct consequence of this is that the developers don't have control of when, where and how the player interacts with the dungeon, so that very refined dungeon progression system, that some series like //The Legend of Zelda// is famous for, simply isn't possible here.
+
+| [img [ https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f1/WaterTemple.png ]] |
+| Water Temple, from //Ocarina of Time// |
+
+Not only that, but the player will likely find and raid the same dungeon several times, which means the experience can get repetitive quite fast. As a way to avoid this, all structures in the game have some level of randomness in them, be it changing interiors or variants of the same structure. As an example of this, the interior layout of woodland mansions is procedurally generated and, thus, different for every mansion^^<a href="https://minecraft.fandom.com/wiki/Woodland_Mansion#Structure">2</a>^^.
+
+| [img[https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5d/Woodland_Mansion.png]] |
+| Ortographic projection of the outside of an woodland mansion |
+
+!Principles for good Minecraft dungeon design
+
+Now with the context out of the way, we can finally focus on what things makes or breaks a dungeon in Minecraft:
+
+!! • Good size:
+
+Basically boils down to not making the structure too small, mostly because making it too big is way harder. The size affects how long it takes to complete the dungeon and, thus, the difficulty indirectly, along with how much space the player has to maneuver. The quintessential example of a dungeon being too small is the... <a href="https://minecraft.fandom.com/wiki/Monster_Room">Dungeon/Monster Room</a>, the fact it has only one spawner and at best area of 49 blocks squared makes it a very easy and quick to clear dungeon.
+
+| [img[https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/Two_Spawners.png]] |
+| Two Dungeons intersecting, however, make for a much more interesting dungeon |
+
+!! • Solid thematization:
+
+You need to sell well to the player the idea that this place is the place you say it is, as a part of <a href="https://en.wikipedia.org/wiki/Suspension_of_disbelief">suspension of disbelief</a>. Again, the quintessential example of doing this wrong is the  <a href="https://minecraft.fandom.com/wiki/Monster_Room">Dungeon/Monster Room</a>, after all the dungeon is only a cube with some mossy cobble thrown here and there.
+
+| [img width=1200 [https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e3/Monster_Room_%28Dungeon%29.png]] | [img[https://media.forgecdn.net/attachments/384/539/2021-05-13_03.png]] |
+| Compare Vanilla's <a href="https://minecraft.fandom.com/wiki/Monster_Room">Dungeons</a> to <a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons">Yung's Better Dungeons'</a> Dungeons |<|
+
+!! • Balanced rarity:
+
+A dungeon can't be too rare or too common, too rare makes it too difficult to find while too common ruins the specialness of the dungeon, do note that it is much harder to make a dungeon too rare since some rarity makes the structure feels more special. Contrary to what social media might lead you to believe, no dungeon in Minecraft major problems with rarity.
+
+!! • Sufficiently challenging + Proper rewards:
+
+The dungeon should be enough of a challenge for the player while giving rewards roughly equivalent to it's difficulty. Again, no dungeon is particularly egregious on this (Dungeon's problems comes mostly from size, not intrinsic difficulty).
+
+!Orespawn-y dungeons
+
+So what is Orespawn's take on cube game dungeons? Orespawn's possess mediocre to really bad thematization (we won't be copying this, obviously) with a very liberal use of mob spawners which results in lots of creatures spawning.
+
+!Awakening the chaos
+
+Now we can (finally) talk about what we should see in Chaos Awakens' dungeons, which should roughly be: a focus on rarer, but larger dungeons that consistently take advantage of randomness to keep repetitiveness at bay. While we can set traps and puzzles, the focus, like in Orespawn, should be on the mobs with use of spawners to keep a, at least, consistent quantity of enemies going. What about the rewards? When painting in broad strokes like this, there isn't much to say about them, except that they should be good.
+
+Also, when it comes to mobs, the ones considered "common" for that dungeon should be the ones within spawners while the "boss" is stays unique.

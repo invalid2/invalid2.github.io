@@ -1,0 +1,20 @@
+appearance: https://media.forgecdn.net/attachments/thumbnails/513/528/310/172/2022-11-07_09.png
+created: 20230331102900134
+modified: 20230331105141680
+tags: Biomes Proposed
+title: Tar Hills
+type: text/vnd.tiddlywiki
+
+!!Information
+
+Biome info
+
+!!Appearance
+<<img {{!!appearance}}>>
+
+!!Data
+<<biomeinfobox loc:"[[Mining Paradise]]">>
+
+!!Gallery
+
+/*Insert gallery images here*

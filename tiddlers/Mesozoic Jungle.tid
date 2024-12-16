@@ -1,0 +1,20 @@
+appearance: https://media.discordapp.net/attachments/952003824439148584/1073424389607010304/2023-02-09_23.05.04.png
+created: 20230101023250507
+modified: 20230331103910823
+tags: Biomes Added
+title: Mesozoic Jungle
+type: text/vnd.tiddlywiki
+
+!!Information
+
+Biome info
+
+!!Appearance
+<<img {{!!appearance}}>>
+
+!!Data
+<<biomeinfobox loc:"[[Mining Paradise]]">>
+
+!!Gallery
+
+/*Insert gallery images here*

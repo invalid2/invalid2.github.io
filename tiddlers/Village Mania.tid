@@ -1,0 +1,17 @@
+appearance: https://media.forgecdn.net/attachments/thumbnails/513/528/310/172/2022-11-07_09.png
+created: 20221231160426278
+modified: 20230103214247192
+tags: Dimensions Added
+title: Village Mania
+type: text/vnd.tiddlywiki
+
+!!Information
+
+Full of villages.
+
+!!Data
+<<dimensiondatatable biome:"[[Village Snowy]], [[Village Savanna]], [[Village Desert]], [[Village Plains]], [[Village Ocean]]">>
+
+!!Gallery
+
+/*Insert gallery images here*

@@ -1,0 +1,59 @@
+created: 20221230123329468
+modified: 20230226205909199
+tags: Contents
+title: Equipment
+type: text/vnd.tiddlywiki
+
+!!Introduction
+
+Equipment encompasses weapons, tools and armors, being one of the main ways the player can interact with the world and deal with mobs. Each equipment is part of a set, with each set being of a tier, eg: Wooden sword is part of the wooden set which is tier t1.
+
+!!Tiers
+
+Tiers start from t0, which corresponds to a fist for tools and being unarmored for armor, and increase by 1 for each improvement, thus the higher the number the better the equipment overall. Additionally, Vanilla has equipment that goes from tier t1 all the way to t5 (wooden, netherite) which will be collectively referred to as tV (tier Vanilla).
+
+!!!Toolset tierlist
+|>| !Tier | !Toolset/Weaponset |<|<|
+| tV | t0 | None |<|<|
+|~| t1 | Wooden | Crystalwood ||
+|~| t2 | Stone | Copper | Kyanite |
+|~| t3 | Iron | Gold | Amethyst |
+|~| t4 | Diamond | Emerald | Pink Tourmaline |
+|~| t5 | Netherite | Tin | |
+| tE | t6 | Silver | Ruby | Cat’s eye |
+|~| t7 | Tiger's eye | Rat | Poison |
+|~| t8 | Platinum | Fairy ||
+| Esoteric crafting starts here |<|<|<|<|
+| tM | t9 | Nightmare | Experience ||
+|~| t10 | Draconic? | Prismatic ||
+|~| t11 | Ultimate | Charged copper? ||
+| Uranium powered crafting |<|<|<|<|
+| tL | t12 | Mythical? |||
+|~| t13 | Bertha | Slice ||
+|~| t14 | Royal | Queen ||
+|| t15 | Final? |||
+
+* Names ending with a “?” are proposed sets.
+
+!!!Armorset tierlist
+|>| !Tier | ! Armorset |<|<|
+| tV | t0 | None |<|<|
+|~| t1 | Leather |||
+|~| t2 | Chainmail | Copper ||
+|~| t3 | Iron | Gold | Amethyst |
+|~| t4 | Diamond | Emerald | Pink Tourmaline |
+|~| t5 | Netherite | Tin | Lava eel |
+| tE | t6 | Silver | Ruby | Cat’s eye |
+|~| t7 | Tiger's eye |||
+|~| t8 | Platinum |||
+| Esoteric crafting starts here |<|<|<|<|
+| tM | t9 | Illusion? | Experience ||
+|~| t10 | Draconic? |||
+|~| t11 | Ultimate | Charged copper? ||
+| Uranium powered crafting |<|<|<|<|
+| tL | t12 | Ancient? |||
+|~| t13 | Mobzilla |||
+|~| t14 | Royal | Queen ||
+|| t15 | Final? |||
+
+* Names ending with a “?” are proposed sets.

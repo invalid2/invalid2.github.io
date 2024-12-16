@@ -1,0 +1,28 @@
+appearance: https://media.forgecdn.net/attachments/513/498/robo-pounder-walking.gif
+created: 20221230174604791
+modified: 20230313180507152
+tags: Mobs Added Hostile
+title: Robo Pounder
+type: text/vnd.tiddlywiki
+
+<<mobdatatable class:"Robo" spawn:"[[Village Mania]]">>
+!!Introduction
+
+Part of the Robo family of mobs, second strongest melee Robo and third strongest Robo overall.
+
+!!Spawning
+
+Spawning explication
+
+!!Drops
+
+Drops explication
+
+!!Behaviour
+
+Aggressive to all things non-Robo. Uses melee attacks, being specially deadly during rage run.
+
+!!Gallery
+
+<<img {{!!appearance}}>>
+[img[https://media.discordapp.net/attachments/987403325693636618/987481751330893824/Robo_Pounder.gif]]

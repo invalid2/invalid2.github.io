@@ -1,0 +1,21 @@
+appearance: https://media.forgecdn.net/attachments/thumbnails/513/528/310/172/2022-11-07_09.png
+created: 20230104231857465
+modified: 20230216170350345
+tags: Structures Planned
+title: Surface Ruin
+type: text/vnd.tiddlywiki
+
+!!Information
+
+Old abandoned structures built by long fallen adventurers with their old possessions still being found among the structure. While they aren't particularly large, they can still be considerably dangerous as the souls of their former owners haunt them.
+
+!!Data
+<<structuredatatable loc:"[[Overworld]]. [[Mining Paradise]], [[Village Mania]]. [[Crystalworld]]" loot:"Surface ruin loot tables">>
+
+!!Extras
+
+The appearance of the ruin changes depending on biome, as the available building blocks change
+
+!!Gallery
+
+/*Insert gallery images here*

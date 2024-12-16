@@ -1,0 +1,11 @@
+created: 20230104211440356
+modified: 20230104211558692
+tags: $:/tags/Macro Macros
+title: MacroStructureDataTable
+type: text/vnd.tiddlywiki
+
+\define structuredatatable(loc:"Nowhere" loot:"None")
+| !Structure data of [[$(currentTiddler)$]] |<|
+| Location | $loc$ |
+| Loot | $loot$ |
+\end

@@ -1,0 +1,23 @@
+created: 20221230171556231
+modified: 20230331103619098
+tags: $:/tags/Macro Macros
+title: MacroMobInfobox
+type: text/vnd.tiddlywiki
+
+\define mobinfobox( img:{{!!appearance}} hp:"❤️0" def:"🛡️0" beh:"Behaviorless" class:"None" atk:"🗡️0" drop:"Nothing" spawn:"Nowhere" use:"None" equip:"None")
+<div style="float:right">
+
+| ![[$(currentTiddler)$]] |<|
+| <<imgsize url:$img$ w:"360" h:"360">> |<|
+| Health points | $hp$ |
+| Armor points | $def$ |
+| Behavior | $beh$ |
+| Classification | $class$ |
+| Attack strength | $atk$ |
+| Drops | $drop$ |
+| Spawn | $spawn$ |
+| Usable Items | $use$ |
+| Natural equipment | $equip$ |
+
+</div>
+\end

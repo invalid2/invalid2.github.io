@@ -1,0 +1,27 @@
+appearance: https://media.discordapp.net/attachments/987403325693636618/987481623819878510/dragonfly_view1.png
+created: 20221231152112565
+modified: 20230125233843523
+tags: Mobs Added Passive
+title: Lettuce Chicken
+type: text/vnd.tiddlywiki
+
+<<mobdatatable drop:"Lettuce">>
+!!Introduction
+
+Part of the Veggiemal family of mobs.
+
+!!Spawning
+
+Spawning explication
+
+!!Drops
+
+Drops explication
+
+!!Behaviour
+
+Passive
+
+!!Gallery
+
+<<img {{!!appearance}}>>

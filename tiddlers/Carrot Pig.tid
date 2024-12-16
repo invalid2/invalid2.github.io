@@ -1,0 +1,27 @@
+appearance: https://media.discordapp.net/attachments/987403325693636618/987481623819878510/dragonfly_view1.png
+created: 20221231151929469
+modified: 20230125235726170
+tags: Mobs Added Passive
+title: Carrot Pig
+type: text/vnd.tiddlywiki
+
+<<mobdatatable drop:"Carrot">>
+!!Introduction
+
+Part of the Carrot Pig and Veggiemal family of mobs.
+
+!!Spawning
+
+Spawning explication
+
+!!Drops
+
+Drops explication
+
+!!Behaviour
+
+Passive
+
+!!Gallery
+
+<<img {{!!appearance}}>>

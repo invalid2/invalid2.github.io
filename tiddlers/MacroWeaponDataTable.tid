@@ -1,0 +1,18 @@
+created: 20221231153225932
+modified: 20230101035346448
+tags: $:/tags/Macro Macros
+title: MacroWeaponDataTable
+type: text/vnd.tiddlywiki
+
+\define weapondatatable(type:"Weapon" rng:"None" dmg:"0" spd:"0" dur:"0" hnd2:"No" attr:"None")
+| !Weapon data of [[$(currentTiddler)$]] |<|
+| Type | $type$ |
+| Range | $rng$ |
+| Damage | $dmg$ |
+| Attack Speed | $spd$ |
+| Durability | $dur$ |
+| Two-handed | $hnd2$ |
+| Attributes | $attr$ |
+|~|~|
+
+\end

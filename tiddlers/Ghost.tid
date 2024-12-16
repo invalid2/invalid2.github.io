@@ -1,0 +1,27 @@
+appearance: 
+created: 20230103224652307
+modified: 20230125234224629
+tags: Mobs Hostile Planned
+title: Ghost
+type: text/vnd.tiddlywiki
+
+<<mobdatatable drop:"[[Ectoplasm]]" spawn:"Everywhere">>
+!!Introduction
+
+Ghosts are the unrestful spirits of the dead, as such they might be found still using the gear they had in their past life.
+
+!!Spawning
+
+Spawning explication
+
+!!Drops
+
+Drops explication
+
+!!Behaviour
+
+Aggressive to players. They are capable of flight, phasing through the solid blocks and using weaponry and/or armor. Their weakness is light, thus they will burn during the day, burn when in highly illuminated areas and generally avoid light.
+
+!!Gallery
+
+<<img {{!!appearance}}>>

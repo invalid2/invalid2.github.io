@@ -1,0 +1,18 @@
+created: 20221230190128960
+modified: 20230101224646358
+tags: Templates
+title: TemplateItem
+type: text/vnd.tiddlywiki
+
+!!Information
+
+Basic info
+
+!!Appearance
+<<img {{!!appearance}}>>
+
+!!Data
+<<itemdatatable>>
+
+!!Extras
+None

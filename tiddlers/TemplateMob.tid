@@ -1,0 +1,27 @@
+appearance: https://media.discordapp.net/attachments/987403325693636618/987481623819878510/dragonfly_view1.png
+created: 20221230123435803
+modified: 20230125233157160
+tags: Templates
+title: TemplateMob
+type: text/vnd.tiddlywiki
+
+<<mobdatatable>>
+!!Introduction
+
+Mob introduction
+
+!!Spawning
+
+Spawning explication
+
+!!Drops
+
+Drops explication
+
+!!Behaviour
+
+Behaviour explication
+
+!!Gallery
+
+<<img {{!!appearance}} >>

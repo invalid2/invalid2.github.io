@@ -1,0 +1,31 @@
+created: 20230101231656233
+modified: 20230102184709359
+tags: Items
+title: Gemstone
+type: text/vnd.tiddlywiki
+
+!!Information
+
+Mineral crystals of various shapes and colors, made of a mixture of various substances forming a delicate structure of great beauty. Gemstones store considerable power inside themselves that can be extracted by putting them on a [[Gem Holder]] to give out various effects.
+
+!!Appearance
+<<img {{!!appearance}}>>
+
+!!Data
+<<itemdatatable type:"Ore" obt:"Mining in [[Crystalworld]]" use:"[[Gem Holder]], [[Gem Holder Machine]]">>
+
+!!Extras
+Types of gemstones:
+
+| !Gemstone | !Effect |
+| Amber | Healing |
+| Amethyst | Night Vision |
+| Aquamarine | Looting |
+| Citrine | Intensity increase |
+| Garnet | Fire resistance |
+| Moonstone | Phantom/Nightmare repellent |
+| Realgar | Poison |
+| Ekanite | Insta-damage |
+| Bloodstone | Strength |
+| Sunstone | Crop growth |
+| Tanzanite | Haste |

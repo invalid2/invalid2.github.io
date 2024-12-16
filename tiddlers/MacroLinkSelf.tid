@@ -1,0 +1,9 @@
+created: 20230103210957328
+modified: 20230103211051982
+tags: $:/tags/Macro Macros
+title: MacroLinkSelf
+type: text/vnd.tiddlywiki
+
+\define linkself()
+[[$(currentTiddler)$]]
+\end

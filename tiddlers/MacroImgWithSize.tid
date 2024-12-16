@@ -1,0 +1,9 @@
+created: 20230103205609139
+modified: 20230125192716820
+tags: $:/tags/Macro Macros
+title: MacroImgWithSize
+type: text/vnd.tiddlywiki
+
+\define imgsize(url:"None" w:"128" h:"128")
+<img style="object-fit:cover" src=$url$ width=$w$ height=$h$>
+\end

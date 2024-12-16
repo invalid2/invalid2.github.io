@@ -1,0 +1,29 @@
+appearance: https://media.discordapp.net/attachments/995760697927548939/1048277271934414878/robo.warrior_NEW1.png
+created: 20221231145101580
+modified: 20230313180438063
+tags: Mobs Added Hostile
+title: Robo Warrior
+type: text/vnd.tiddlywiki
+
+<<mobdatatable class:"Robo" drop:"[[Freaking Ray Gun]]" spawn:"[[Village Mania]]">>
+!!Introduction
+
+Part of the Robo family of mobs, second strongest ranged Robo and fourth strongest Robo overall. Notable for dropping the [[Freaking Ray Gun]].
+
+
+!!Spawning
+
+Spawning explication
+
+!!Drops
+
+Drops explication
+
+!!Behaviour
+
+Aggressive to all things non-Robo. Uses ranged attacks
+
+!!Gallery
+
+<<img {{!!appearance}}>>
+[img[https://media.discordapp.net/attachments/995760697927548939/1048276888088481892/Robo_warrior_charged_shot.gif]]

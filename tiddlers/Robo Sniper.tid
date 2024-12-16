@@ -1,0 +1,28 @@
+appearance: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzS4aV1Gq40E9iusTabzkGsfTHiQ3A7p3o7A&usqp=CAU
+created: 20221231141518597
+modified: 20230313180454711
+tags: Mobs Added Hostile
+title: Robo Sniper
+type: text/vnd.tiddlywiki
+
+<<mobdatatable class:"Robo" spawn:"[[Village Mania]]">>
+!!Introduction
+
+Part of the Robo family of mobs, weakest ranged Robo and third weakest Robo overall.
+
+!!Spawning
+
+Spawning explication
+
+!!Drops
+
+Drops explication
+
+!!Behaviour
+
+Aggressive to all things non-Robo. Uses ranged attacks.
+
+!!Gallery
+
+<<img {{!!appearance}}>>
+[[Wasp]] to the left, [[Robo Sniper]] to the right.
